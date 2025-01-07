@@ -15,9 +15,7 @@
 
 - 😄 Pronouns: She/Her
 - :cloud: DevOps Engineer
-- 🔭 I’m currently working on this project: [itj-library](https://github.com/iTjuana/itj-library)
-
-
+- 🔭 I’m currently working on this project: RadiSoft 
 
 <!-- Technologies -->
 ## 💻 Tech Stack
@@ -52,6 +50,11 @@
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Referral Links
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=f0a56b973229&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fnespinoza&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fnespinoza&theme=dracula&hide_border=false)<br/>
@@ -59,6 +62,6 @@
 
 <!-- Connect with me -->
 ## Connect with me
-<a href="https://medium.com/@fnespinoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fnespinoza" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@fnespinoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fnespinoza" height="30" width="40" /></a> -->
 <a href="https://discord.gg/ferny#1098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ferny#1098" height="30" width="40" /></a>
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fnespinoza) -->
