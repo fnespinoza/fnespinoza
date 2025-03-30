@@ -21,6 +21,8 @@
 
 🚀 [My Linktree - Tools, Discounts & Recommendations](https://linktr.ee/ferxesp)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41CJCYL)
+
 <!-- Technologies -->
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
