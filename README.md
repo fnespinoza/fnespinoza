@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/English-Fluent-326ce5?style=flat-square" alt="English: Fluent" />
   <img src="https://img.shields.io/badge/Espa%C3%B1ol-Nativo-e63946?style=flat-square" alt="Español: Nativo" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collabs-2ea44f?style=flat-square" alt="Open to freelance & collabs" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--time%20%26%20Freelance-2ea44f?style=flat-square" alt="Open to full-time & freelance" />
 </p>
 
 ---
@@ -67,6 +67,7 @@
 
 **🧠 Programming & Scripting**
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -102,8 +103,9 @@
 ### 🤝 Let's Connect · ¡Conectemos!
 
 <p align="center">
+  <a href="https://fe-portafolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23326ce5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linktr.ee/ferxesp" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
-  <a href="https://ko-fi.com/B0B41CJCYL" target="_blank"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://ko-fi.com/byferny" target="_blank"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 
 <p align="center"><sub>Feel free to reach out in English or Spanish — <i>¡con gusto te respondo en español!</i></sub></p>
