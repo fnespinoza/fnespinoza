@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="https://fe-portafolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23326ce5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linktr.ee/ferxesp" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://linktr.ee/byferny" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   <a href="https://ko-fi.com/byferny" target="_blank"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 
@@ -112,7 +112,8 @@
 
 <p align="center">
   <sub>☁️ Like DigitalOcean? Get free credits with my
-  <a href="https://www.digitalocean.com/?refcode=f0a56b973229&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">referral link</a>.</sub>
+  <a href="https://m.do.co/c/3ff86a5f1557">referral link</a>.</sub><br/>
+  <sub>🔐 Need a VPN? <a href="https://surfshark.club/friend/dpve7a6D">Surfshark</a> — up to 3 months free with my link.</sub>
 </p>
 
 <!-- Footer banner -->
